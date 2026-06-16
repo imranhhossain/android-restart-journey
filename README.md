@@ -18,4 +18,4 @@ Build small projects and gradually move to advanced applications
 I believe consistency beats intensity.
 Even if progress is small, I will try to learn, practice, and push code regularly. Every commit in this repository represents one step forward in my Android development journey.
 
-# Let's build, learn, and grow.
+## Let's build, learn, and grow.
